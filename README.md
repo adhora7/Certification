@@ -1,54 +1,57 @@
 # Certification Portfolio
 
-This repository showcases certifications I’ve earned in various technical and academic fields.
+This repository highlights selected certifications I’ve earned in technical and academic domains.
 
 ---
 
-## 💻 MATLAB Onramp Certification
+## 💻 MATLAB Onramp
 
-**Certificate Overview**:  
-I have successfully completed the **MATLAB Onramp** course, an interactive, self-paced online training course provided by **MathWorks**.  
-This certification demonstrates my proficiency in MATLAB, including key concepts like data analysis, matrix manipulation, and function creation.
+**Issuer:** MathWorks
 
-**The course covered**:
-- Basic MATLAB programming and syntax  
-- Working with variables and data types  
-- Creating functions and scripts  
-- Plotting and visualizing data  
+Completed the interactive **MATLAB Onramp** course, covering core MATLAB programming and data handling.
 
-I completed 100% of the course, which included practical exercises and projects to apply the concepts learned.
+**Key areas:**
+
+* MATLAB syntax and scripting
+* Matrix operations and data types
+* Functions and basic data visualization
 
 ---
 
-## 🧠 Research Paper Writing Certification
+## 🧠 Research Paper Writing
 
-**Certificate Overview**:  
-I have successfully completed the **Research Paper Writing** course offered by **Amar iSchool**, completed on **15th June 2025**.  
-This course has strengthened my academic writing skills and guided me through the essentials of writing, structuring, and submitting impactful research papers.
+**Issuer:** Amar iSchool
+**Completed:** June 15, 2025
 
-**Key topics covered**:
-- Structuring academic papers (Title, Abstract, Introduction, etc.)  
-- Literature review strategies  
-- Research methodologies and ethics  
-- Citation and referencing techniques (APA/IEEE)  
-- Conference vs. journal writing  
-- Common pitfalls and how to avoid them  
+Focused on academic and technical writing skills essential for research publications.
 
-This course directly complements my recent **IEEE conference publication** and has enhanced my ability to communicate technical ideas effectively.
+**Key areas:**
+
+* Paper structure and literature review
+* Research ethics and methodology
+* APA/IEEE citation styles
 
 ---
 
-## Additional Information
+## 📊 Data Science with Python
 
-- The **MATLAB Onramp** certification is issued by **MathWorks**, a leading provider of technical computing software.  
-- The **Research Paper Writing** certification is awarded by **Amar iSchool**, a platform offering practical learning for Bangladeshi learners in academia.
+**Issuer:** Great Learning
+**Completed:** October 06, 2025
 
-These certifications strengthen my foundation in both computational problem-solving and academic communication.
+Gained foundational knowledge of data science using Python, with hands-on exposure to real-world data analysis.
+
+**Key areas:**
+
+* Python for data analysis
+* NumPy and Pandas
+* Data visualization and EDA
+* Basic statistics
 
 ---
 
 ## License
 
-This repository is open-source and licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).
+
 
 
